@@ -5,7 +5,7 @@ function App() {
 	return (
 		<div className="App">
 			{/* <RegisterHook></RegisterHook> */}
-			<RegisterFormik></RegisterFormik>
+			{/* <RegisterFormik></RegisterFormik> */}
 		</div>
 	);
 }

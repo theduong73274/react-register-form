@@ -13,7 +13,7 @@ const RadioFormik = ({ label, ...props }) => {
 					{...field}
 					{...props}
 					className="hidden"
-					// checked={props.checked}
+					checked={props.checked}
 				/>
 				<div className="bg-white w-full h-full rounded-full"></div>
 			</label>
